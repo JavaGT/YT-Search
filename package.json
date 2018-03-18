@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/JavaGT/YT-Search/issues"
   },
-  "homepage": "https://github.com/JavaGT/YT-Search#readme"
+  "homepage": "https://github.com/JavaGT/YT-Search#readme",
+  "dependencies": {
+    "fast-html-parser": "^1.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
 }
